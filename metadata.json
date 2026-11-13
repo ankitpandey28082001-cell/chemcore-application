@@ -1,0 +1,6 @@
+{
+  "name": "ChemMaster",
+  "description": "Comprehensive chemistry suite featuring an interactive Periodic Table, chemical equation balancer, molar mass calculator, pH tools, virtual reaction bench, user login with Mobile Number or Email ID, new user registration, accurate Indian Standard Time (IST), real-time live voice conversations powered by gemini-3.8-live, and chemistry study music generation powered by Lyria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
